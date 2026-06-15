@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896116234510",
+    "project_id": "portis-66904",
+    "storage_bucket": "portis-66904.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896116234510:android:51c6046cf114845ea39f5f",
+        "android_client_info": {
+          "package_name": "com.example.pcare_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHDwb_PiLZmZ27fXX1bqFzyY0Mz4oYAgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
